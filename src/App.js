@@ -2,7 +2,7 @@
  * PLEASE NOTE
  *
  * This app assumes the presence of '$' 'jQuery' on the global window
- * object since it uses a jQuery plugin for image annotation (bad bad bad)
+ * object since it uses a jQuery plugin for image annotation
  */
 
 import React, {Component} from 'react';
