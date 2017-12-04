@@ -11,3 +11,7 @@ jQuery also demonstrates how these two technologies can be used in tandem.
 The point was not to create an idiomatic way of doing image annotation in a web app.
 
 _Only tested in Chrome and not deployed to prod._
+
+## How to use
+1. Clone repo and install deps.
+2. Run the `start` script and navigate to `localhost:3000/?imgUri=your-image-uri-here`
